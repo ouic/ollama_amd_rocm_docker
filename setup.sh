@@ -98,4 +98,3 @@ fi
 
 # Output success message
 echo "Setup complete. You can now use the 'ollama' command to run Ollama within the Docker container."
-

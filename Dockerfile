@@ -24,4 +24,3 @@ EXPOSE 8080
 
 # Run Ollama
 CMD ["python3", "run_ollama.py"]
-

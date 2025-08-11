@@ -201,3 +201,4 @@ if ! rocminfo &> /dev/null; then
 fi
 
 echo "Installation complete. Please log out and log back in for the changes to take effect."
+
